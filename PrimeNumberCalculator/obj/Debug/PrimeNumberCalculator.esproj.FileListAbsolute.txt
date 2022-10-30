@@ -1,0 +1,2 @@
+C:\Users\jcotterill\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\obj\Debug\PrimeNumberCalculator.esproj.SuggestedBindingRedirects.cache
+C:\Users\jcotterill\source\repos\PrimeNumberCalculator\PrimeNumberCalculator\obj\Debug\PrimeNumberCalculator.esproj.CoreCompileInputs.cache
